@@ -1,3 +1,4 @@
-public class Lotable {
-    
+public interface Lotable {
+    int getId();
+    String toString();
 }
